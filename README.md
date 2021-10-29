@@ -7,4 +7,5 @@ In this rep we have 3 main missions:
   Font for Vietnamese
 * Generate hand-writing data
 * Our proposal and comparation
+
 TODO list:
